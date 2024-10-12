@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.square {
+  height: 60px;
+  width: 140px;
+  background-color: #3A3A3D;
+  border-style: solid;
+  border-color: #3A3A3D;  
+  font-family: 'Calibri';
+  border-radius: 3px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30px;    
+ 
+}
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid #ccc;
+    margin: 1em 0; padding: 0; background-color: #e5e5e5; }
+</style>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td align="center">
+           <div style="height: 600px; width: 700px; position: fixed; top: 50%; left: 50%; margin-top: -100px; 			 margin-left: -200px; font-family: 'Calibri'; text-align:left;">
+			<h2 style="color: #5e9ca0; "><span style="color: #333333;" >Condomix </span></h2>
+			<hr>
+			<p>Exmo. Senhor {nome},</p>
+			<div>Vimos por este meio inform&aacute;-lo de que o seu registo de funcion&aacute;rio foi concluido com sucesso.</div>
+				<div>Para aceder ao sistema dever&aacute; utilizar o seu n&uacute;mero de contribuinte e a seguinte password:</div>
+					<br>
+					<div class="square" style="font-family: 'Calibri';color:white;">
+					<h2><strong>{codigo}</strong></h2>
+			</div>
+				<br> <br> <br>
+			<div style="position: absolute; bottom: 5px; color: #a9a9a9;">
+            	<hr/>
+            	Esta mensagem foi enviada para&nbsp;<a target="_blank" rel="noopener; 										color:black;">{Destinatario}</a>&nbsp;ap&oacute;s o seu registo.<br />Condomix - Gest&atilde;o de 				 Condomin&iacute;nios</div>
+			</div>
+        </td>
+    </tr>
+</table>
+
+</html>

@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS0169: The field 'FrmLogin.iDCargoDataGridViewTextBoxColumn1' is never used
+dotnet_diagnostic.CS0169.severity = warning
+
+# IDE0051: Remove unused private members
+dotnet_diagnostic.IDE0051.severity = warning

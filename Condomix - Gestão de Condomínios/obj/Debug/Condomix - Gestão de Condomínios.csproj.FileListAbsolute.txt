@@ -1,0 +1,232 @@
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\CONDOMIX.mdf
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\CONDOMIX_log.ldf
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.exe.config
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.exe
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.pdb
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Google.Authenticator.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\pteidlib_dotnet.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\QRCoder.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Google.Authenticator.pdb
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Clientes.FormularioClientes.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioCondominios.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFuncionarios.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Clientes.FrmClientes.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Definicoes.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.FrmMenu.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmAutenticacao.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmCodSeguranca.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.FrmLogin.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmRecuperarConta.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmRedefinirPassword.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.exe
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.pdb
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFracoes.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.ResolveComReference.cache
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.License.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.Pdf.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.XLS.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.License.xml
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.Pdf.xml
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.XLS.xml
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\WindowsInput.dll
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\WindowsInput.xml
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioAtas.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioVistorias.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioOcorrencias.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFornecedores.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioContratos.resources
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioCargos.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\CONDOMIX.mdf
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\CONDOMIX_log.ldf
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.exe.config
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.exe
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.pdb
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Google.Authenticator.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\QRCoder.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.License.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.Pdf.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.XLS.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\WindowsInput.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Google.Authenticator.pdb
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.License.xml
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.Pdf.xml
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.XLS.xml
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\WindowsInput.xml
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.ResolveComReference.cache
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioAtas.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioCargos.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Clientes.FormularioClientes.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioCondominios.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioContratos.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFornecedores.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFracoes.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFuncionarios.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioPagamentos.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioPagamentos2.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioVistorias.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioOcorrencias.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Clientes.FrmClientes.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Definicoes.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.FrmMenu.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmAutenticacao.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmCodSeguranca.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.FrmLogin.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmRecuperarConta.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmRedefinirPassword.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.exe
+C:\Users\Utilizador\Desktop\iFun Screen Recorder\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.pdb
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioPagamentos.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\CONDOMIX.mdf
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\CONDOMIX_log.ldf
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.exe.config
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.exe
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.pdb
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Google.Authenticator.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\QRCoder.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.License.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.Pdf.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.XLS.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\WindowsInput.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Microsoft.mshtml.dll
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Google.Authenticator.pdb
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.License.xml
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.Pdf.xml
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.XLS.xml
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\WindowsInput.xml
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.AssemblyReference.cache
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.ResolveComReference.cache
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioAtas.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioCargos.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Clientes.FormularioClientes.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioCondominios.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioContratos.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFornecedores.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFracoes.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFuncionarios.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioPagamentos.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioVistorias.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioOcorrencias.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Clientes.FrmClientes.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Definicoes.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.FrmMenu.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmAutenticacao.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmCodSeguranca.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.FrmLogin.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmRecuperarConta.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmRedefinirPassword.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Properties.Resources.resources
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.GenerateResource.cache
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.CopyComplete
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.exe
+C:\Users\tiago\Desktop\Cor Hex to RGB\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.pdb
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\CONDOMIX.mdf
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\CONDOMIX_log.ldf
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.exe.config
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.exe
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Condomix - Gestão de Condomínios.pdb
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Google.Authenticator.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\pteidlib_dotnet.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\QRCoder.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.License.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.Pdf.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.XLS.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\System.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\WindowsInput.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Microsoft.mshtml.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Google.Authenticator.pdb
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.License.xml
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.Pdf.xml
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\Spire.XLS.xml
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\System.xml
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\WindowsInput.xml
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.ResolveComReference.cache
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioAtas.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioCargos.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Clientes.FormularioClientes.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioCondominios.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioContratos.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFornecedores.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFracoes.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioFuncionarios.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioPagamentos.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioVistorias.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Formularios.FormularioOcorrencias.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Clientes.FrmClientes.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Definicoes.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.FrmMenu.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmAutenticacao.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmCodSeguranca.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.FrmLogin.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmRecuperarConta.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Login.FrmRedefinirPassword.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix___Gestão_de_Condomínios.Properties.Resources.resources
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.GenerateResource.cache
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.CopyComplete
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.exe
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.pdb
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\obj\Debug\Condomix - Gestão de Condomínios.csproj.AssemblyReference.cache
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\FontAwesome6.Core.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\FontAwesome6.Fonts.Net.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\FontAwesome6.Shared.Net.dll
+C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\Condomix - Gestão de Condomínios\bin\Debug\FontAwesome6.Fonts.Net.xml

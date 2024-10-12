@@ -1,0 +1,257 @@
+﻿++Solution 'Condomix - Gestão de Condomínios' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Condomix - Gestão de Condomínios.sln
+++Solution Items
+i:{00000000-0000-0000-0000-000000000000}:Solution Items
+++.editorconfig
+i:{4b9e5508-8bd7-41dc-bc68-47c546f042b8}:C:\Users\tiago\Desktop\Condomix - Gestão de Condomínios\.editorconfig
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\.editorconfig
+++Condomix - Gestão de Condomínios
+i:{00000000-0000-0000-0000-000000000000}:Condomix - Gestão de Condomínios
+++Properties
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\properties\
+++AssemblyInfo.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\properties\assemblyinfo.cs
+++Resources.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\properties\resources.resx
+++Settings.settings
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\properties\settings.settings
+++References
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++AcroPDFLib
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++AxAcroPDFLib
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++FontAwesome.Sharp
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++Google.Authenticator
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++HtmlAgilityPack
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++Microsoft.CSharp
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++Microsoft.Office.Interop.Excel
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++Microsoft.SqlServer.Types
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++PresentationCore
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++PresentationFramework
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++pteidlib_dotnet
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++QRCoder
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++Spire.License
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++Spire.Pdf
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++Spire.XLS
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System.Core
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System.Data
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System.Data.DataSetExtensions
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System.Deployment
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System.Design
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System.Drawing
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System.Net.Http
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System.Web
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System.Windows.Forms
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System.Xml
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++System.Xml.Linq
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++WindowsBase
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++WindowsInput
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:
+++Formularios
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\
+++FormularioAtas.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formularioatas.cs
+++FormularioCargos.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariocargos.cs
+++FormularioClientes.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formularioclientes.cs
+++FormularioCondominios.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariocondominios.cs
+++FormularioContratos.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariocontratos.cs
+++FormularioFornecedores.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariofornecedores.cs
+++FormularioFracoes.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariofracoes.cs
+++FormularioFuncionarios.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariofuncionarios.cs
+++FormularioOcorrencias.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formularioocorrencias.cs
+++FormularioPagamentos.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariopagamentos.cs
+++FormularioVistorias.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariovistorias.cs
+++Login
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\
+++FrmAutenticacao.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmautenticacao.cs
+++FrmCodSeguranca.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmcodseguranca.cs
+++FrmLogin.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmlogin.cs
+++FrmRecuperarConta.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmrecuperarconta.cs
+++FrmRedefinirPassword.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmredefinirpassword.cs
+++Resources
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\resources\
+++Capture.PNG
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\resources\capture.png
+++Capture1.PNG
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\resources\capture1.png
+++Capture2.PNG
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\resources\capture2.png
+++collapse.PNG
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\resources\collapse.png
+++favicon.ico
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\resources\favicon.ico
+++images.png
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\resources\images.png
+++img_246059.png
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\resources\img_246059.png
+++maximixe.png
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\resources\maximixe.png
+++SqlServerTypes
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\sqlservertypes\
+++App.config
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\app.config
+++CONDOMIX.mdf
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\condomix.mdf
+++Crypto.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\crypto.cs
+++CustomCombobox.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\customcombobox.cs
+++Customizar.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\customizar.cs
+++Definicoes.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\definicoes.cs
+++FrmLoad.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\frmload.cs
+++FrmMenu.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\frmmenu.cs
+++MyDateTimePicker.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\mydatetimepicker.cs
+++NormalDateTimePicker.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\normaldatetimepicker.cs
+++packages.config
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\packages.config
+++Program.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\program.cs
+++Utilitarios.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\utilitarios.cs
+++Validacoes.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\validacoes.cs
+++Resources.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\properties\settings.designer.cs
+++FormularioAtas.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formularioatas.designer.cs
+++FormularioAtas.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formularioatas.resx
+++FormularioCargos.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariocargos.designer.cs
+++FormularioCargos.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariocargos.resx
+++FormularioClientes.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formularioclientes.designer.cs
+++FormularioClientes.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formularioclientes.resx
+++FormularioCondominios.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariocondominios.designer.cs
+++FormularioCondominios.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariocondominios.resx
+++FormularioContratos.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariocontratos.designer.cs
+++FormularioContratos.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariocontratos.resx
+++FormularioFornecedores.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariofornecedores.designer.cs
+++FormularioFornecedores.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariofornecedores.resx
+++FormularioFracoes.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariofracoes.designer.cs
+++FormularioFracoes.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariofracoes.resx
+++FormularioFuncionarios.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariofuncionarios.designer.cs
+++FormularioFuncionarios.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariofuncionarios.resx
+++FormularioOcorrencias.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formularioocorrencias.designer.cs
+++FormularioOcorrencias.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formularioocorrencias.resx
+++FormularioPagamentos.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariopagamentos.designer.cs
+++FormularioPagamentos.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariopagamentos.resx
+++FormularioVistorias.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariovistorias.designer.cs
+++FormularioVistorias.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\formularios\formulariovistorias.resx
+++FrmAutenticacao.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmautenticacao.designer.cs
+++FrmAutenticacao.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmautenticacao.resx
+++FrmCodSeguranca.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmcodseguranca.designer.cs
+++FrmCodSeguranca.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmcodseguranca.resx
+++FrmLogin.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmlogin.designer.cs
+++FrmLogin.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmlogin.resx
+++FrmRecuperarConta.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmrecuperarconta.designer.cs
+++FrmRecuperarConta.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmrecuperarconta.resx
+++FrmRedefinirPassword.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmredefinirpassword.designer.cs
+++FrmRedefinirPassword.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\login\frmredefinirpassword.resx
+++x64
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\sqlservertypes\x64\
+++x86
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\sqlservertypes\x86\
+++Loader.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\sqlservertypes\loader.cs
+++readme.htm
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\sqlservertypes\readme.htm
+++CONDOMIX_log.ldf
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\condomix_log.ldf
+++Definicoes.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\definicoes.designer.cs
+++Definicoes.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\definicoes.resx
+++FrmLoad.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\frmload.designer.cs
+++FrmLoad.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\frmload.resx
+++FrmMenu.Designer.cs
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\frmmenu.designer.cs
+++FrmMenu.resx
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\frmmenu.resx
+++msvcr120.dll
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\sqlservertypes\x64\msvcr120.dll
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\sqlservertypes\x86\msvcr120.dll
+++SqlServerSpatial140.dll
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\sqlservertypes\x64\sqlserverspatial140.dll
+i:{b8823de7-54d9-4f85-ac20-6d63ae8aac9a}:c:\users\tiago\desktop\condomix - gestão de condomínios\condomix - gestão de condomínios\sqlservertypes\x86\sqlserverspatial140.dll
